@@ -1,8 +1,10 @@
 # ☁️ Cloud Learning Journal
 
+
 Welcome to my Cloud Learning Journal!
 
 This repository documents my journey into cloud computing and cloud engineering through notes, hands-on labs, projects, and learning resources.
+
 
 ## 🎯 Goals
 
@@ -10,6 +12,7 @@ This repository documents my journey into cloud computing and cloud engineering 
 * Gain hands-on experience through labs and projects
 * Document key learnings and insights
 * Track my progress over time
+
 
 ## 📚 Topics
 
@@ -21,6 +24,7 @@ This repository documents my journey into cloud computing and cloud engineering 
 * Infrastructure as Code
 * DevOps & CI/CD
 * Cloud Security
+
 
 ## 📂 Structure
 
@@ -40,3 +44,6 @@ This repository documents my journey into cloud computing and cloud engineering 
 ## 📄 License
 
 This project is licensed under the MIT License.
+
+---
+I started documenting my learning journey on the 30th of July, 2026.
