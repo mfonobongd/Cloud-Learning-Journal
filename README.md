@@ -33,7 +33,7 @@ This repository documents my journey into cloud computing and cloud engineering 
 | [resources](./resources) | Helpful learning materials |
 | [articles](./articles) | Technical articles I've written |
 
-## 🚀 Learning Philosophy
+## 🚀 My Learning Philosophy
 
 > Learn. Build. Document. Repeat.
 
