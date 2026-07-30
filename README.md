@@ -31,6 +31,7 @@ This repository documents my journey into cloud computing and cloud engineering 
 | [projects](./projects) | Practical cloud projects |
 | [certifications](./certifications) | Certification prep and progress |
 | [resources](./resources) | Helpful learning materials |
+| [articles](./articles) | Technical articles I've written |
 
 ## 🚀 Learning Philosophy
 
